@@ -54,7 +54,6 @@ Full Stack Web Developer & IT Graduate focused on building intuitive, robust, an
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **🏛️ E-Pabatid** | `Next.js` `TypeScript` `TailwindCSS` | Barangay e-Bulletin board & resident emergency hotline portal. |
-| **🎮 8-Bit Retro RPG Portfolio** | `JavaScript (ES6)` `NES.css` `Web Audio API` `Vite` | Gamified developer portfolio with real-time audio synthesis, dynamic XP tracking, and inventory gear. |
 | **🌴 GTA VI Mugshot Lab** | `React` `Canvas API` `Unlayer Editor` `Vite` | Interactive retro VCPD mugshot and poster editor with live filter effects. |
 | **⚡ MarbFlow Studio** | `Vanilla JS` `TailwindCSS` `PWA` | Lightweight zero-build Kanban and task management studio with offline persistence. |
 
