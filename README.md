@@ -11,7 +11,7 @@ Full Stack Web Developer & IT Graduate focused on building intuitive, robust, an
 ### 🚀 About Me
 
 - 💻 **Core Focus:** Full Stack Development (Vue.js, Node.js, MySQL)
-- 🌐 **Live Portfolio:** [vnzcreatives.onrender.com](https://vnzcreatives.onrender.com/)
+- 🌐 **Live Virtual Assistant Portfolio:** [vnzcreatives.onrender.com](https://vnzcreatives.onrender.com/)
 - 🎯 **Goals:** Contributing to open-source software and shipping production-ready applications.
 - 💬 **Ask me about:** JavaScript, Vue components, REST APIs, or database design.
 - 📫 **Reach me at:** [vanzedwardmantes@gmail.com](mailto:vanzedwardmantes@gmail.com)
