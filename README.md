@@ -63,8 +63,11 @@ Full Stack Web Developer & IT Graduate focused on building intuitive, robust, an
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=VanzEdward&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vanz's GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VanzEdward&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- Hides the 'C' grade rank and shows cleaner stats -->
+  <img src="https://github-stats-extended.vercel.app/api?username=VanzEdward&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Vanz's GitHub Stats" width="48%" />
+  
+  <!-- Displays top languages with compact layout -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VanzEdward&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
 ---
