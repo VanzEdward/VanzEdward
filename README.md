@@ -1,7 +1,7 @@
 # Hi there, I'm Vanz Edward 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=VanzEdward&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VanzEdward&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
 </p>
 
 Full Stack Web Developer & IT Graduate focused on building intuitive, robust, and responsive web applications. I enjoy tackling complex logic, architecting clean databases, and designing seamless user experiences.
